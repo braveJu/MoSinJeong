@@ -17,3 +17,25 @@
 - 군산대학교 소프트웨어학부 소프트웨어학전공 유동주
 - 군산대학교 소프트웨어학부 소프트웨어학전공 김동현
 - 군산대학교 소프트웨어학부 소프트웨어학전공 전종식
+
+
+# XML TREE STRUCTURE
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/eaa4b404-ed97-4c71-9020-7cfabb53093a)
+
+# DB SCHEMA
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/ffed1494-84ef-44de-8455-bc065b382509)
+
+# PREVIEW
+
+### MAIN
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/c7e97e9b-8206-4df6-b8ae-eb060e39a988)
+
+### DETAIL
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/107f2f29-1f38-4156-ae92-52825ec47dd4)
+
+### RELEVANT YOUTUBE VIDEO
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/1fea062e-47f4-4793-bbb9-52131564dae0)
+
+
+### USED
+![image](https://github.com/braveJu/MoSinJeong/assets/33821195/600ad7ea-0170-43fd-83ac-bb31fa3d94f8)
